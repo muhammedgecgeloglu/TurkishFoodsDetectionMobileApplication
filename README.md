@@ -1,4 +1,5 @@
 Turkish Foods Detection Mobile Application for Graduation Project - with MobileNetV2 and Flutter
+
 Gebze Technical University
 
 muhammedgecgeloglu@gmail.com
