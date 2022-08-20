@@ -1,16 +1,9 @@
-# tflite_image_classification
+Turkish Foods Detection Mobile Application for Graduation Project - with MobileNetV2 and Flutter
+Gebze Technical University
 
-A new Flutter project.
+muhammedgecgeloglu@gmail.com
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![f13](https://user-images.githubusercontent.com/47321190/185759150-ea005fa2-ee10-41c9-91d5-1660a6fe354c.jpg)
+![f8](https://user-images.githubusercontent.com/47321190/185759143-b8fc387c-68d1-4c3a-b6d3-b44a12f10dde.jpg)
+![f9](https://user-images.githubusercontent.com/47321190/185759145-d6d2cb69-1c1b-4448-9cf6-9d0174134e8e.jpg)
+![f12](https://user-images.githubusercontent.com/47321190/185759147-35b047af-9409-4a5a-9b80-f614006b82fe.jpg)
